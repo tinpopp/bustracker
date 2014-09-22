@@ -6,10 +6,6 @@ here = os.path.abspath(os.path.dirname(__file__))
 # README = open(os.path.join(here, 'README.rst')).read()
 # CHANGES = open(os.path.join(here, 'CHANGES.txt')).read()
 
-
-CONTROLLER = True
-COMPUTE_NODE = True
-
 requires = [
     'eve',
 ]
