@@ -12,13 +12,13 @@ requires = [
 
 
 # scripts = ['bin/nokkhum-controller', 'bin/nokkhum-compute']
-setup(name='nokkhum',
+setup(name='bustracker',
       version='0.0',
-      description='Nokkhum Video Surveillance as a Service',
-      long_description=README + '\n\n' + CHANGES,
+      description='',
+      # long_description=README + '\n\n' + CHANGES,
       classifiers=[
-          "Programming Language :: Python :: 3",
-          "Framework :: nokkhum",
+          "Programming Language :: Python :: 2",
+          #    "Framework :: nokkhum",
       ],
       author='Tinnapop Raedeebuk',
       author_email='t.raedeebuk@gmail.com',
